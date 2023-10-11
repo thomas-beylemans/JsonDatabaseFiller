@@ -1,0 +1,16 @@
+{
+  "name": "JsonDatabaseFiller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "importData.js",
+  "scripts": {
+    "start": "node importData"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ndjson": "^2.0.0",
+    "sqlite3": "^5.1.6"
+  }
+}
